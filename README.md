@@ -1,1 +1,1 @@
-# amazon-card-gen
+# amazon-card folder
